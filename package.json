@@ -16,6 +16,6 @@
     "@types/events": "^3.0.0",
     "enzyme": "^3.10.0",
     "jest": "^24.8.0",
-    "typescript": "^3.5.2"
+    "typescript": "^3.6.0-dev.20190701"
   }
 }
