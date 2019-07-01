@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/enzyme": "^3.10.0",
     "events": "^3.0.0"
   },
   "devDependencies": {

@@ -2,6 +2,9 @@
     "compilerOptions": {
         "moduleResolution": "node",
         "noEmit": true,
+        "esModuleInterop": true,
+        "traceResolution": true,
+        "strict": true,
         "types": [
             "events"
         ]
