@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "noEmit": true,
+        "types": [
+            "events"
+        ]
+    }
+}
